@@ -1,6 +1,6 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=600&size=35&duration=3000&pause=1000&color=37C0C9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mainul+Islam;Welcome+to+my+GitHub+Profile;Data+Analytics+&+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=600&size=35&duration=3000&pause=1000&color=37C0C9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mainul+Islam;Welcome+to+my+GitHub+Profile;Data+Analytics;Machine+Learning" />
 </p>
 
 ---
